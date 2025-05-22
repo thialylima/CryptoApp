@@ -1,16 +1,57 @@
-# cion_app
+# 📱 CryptoApp
 
-A new Flutter project.
+Um aplicativo simples e intuitivo feito com **Flutter** para acompanhar os preços das principais criptomoedas em tempo real, utilizando a API pública da **CoinGecko**.
 
-## Getting Started
+## ✨ Funcionalidades
 
-This project is a starting point for a Flutter application.
+- 🔄 Lista de criptomoedas com preço, símbolo, imagem e variação em 24h
+- 📈 Gráfico com histórico de preços
+- 🔍 Detalhamento individual de cada moeda
+- 🌐 Dados em tempo real fornecidos pela CoinGecko
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tecnologias utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [CoinGecko API](https://www.coingecko.com/en/api/documentation)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Como executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/thialylima/CryptoApp.git
+````
+
+2. Navegue até a pasta do projeto:
+
+```bash
+cd CryptoApp
+```
+
+3. Instale as dependências:
+
+```bash
+flutter pub get
+```
+
+4. Execute o app:
+
+```bash
+flutter run
+```
+
+## 🔐 API
+
+Os dados são fornecidos gratuitamente pela [CoinGecko API](https://www.coingecko.com/en/api/documentation), que não exige autenticação para uso básico.
+
+## 📁 Organização do projeto
+
+* `/lib/models` – Modelos das moedas
+* `/lib/services` – Serviços de requisição à API
+* `/lib/pages` – Telas do aplicativo
+* `/lib/widgets` – Componentes reutilizáveis
+
+## 📄 Licença
+
+Este projeto está sob a licença [MIT](LICENSE).
