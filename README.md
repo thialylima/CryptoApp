@@ -52,6 +52,23 @@ Os dados são fornecidos gratuitamente pela [CoinGecko API](https://www.coingeck
 * `/lib/pages` – Telas do aplicativo
 * `/lib/widgets` – Componentes reutilizáveis
 
+## 🎓 Sobre o projeto
+
+Este aplicativo foi desenvolvido como parte de um **projeto acadêmico** com o objetivo de aplicar na prática os conhecimentos em Flutter, consumo de APIs REST e organização de um app mobile moderno.
+
+---
+
+## 👨‍💻 Desenvolvedores
+
+- Thialy Lima  
+- Larissa dos Santos  
+- Yasmim Camilly  
+- Pedro Henrique  
+- Marcelo Arruda  
+- Thailan Sousa  
+- Victor Chalegre  
+- Adryan Rian
+
 ## 📄 Licença
 
 Este projeto está sob a licença [MIT](LICENSE).
